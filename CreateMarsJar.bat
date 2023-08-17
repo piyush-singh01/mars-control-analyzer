@@ -1,0 +1,1 @@
+jar cmf mainclass.txt Mars.jar docs help images mars ALUcontrolDatapath.xml Config.properties controlDatapath.xml create-jar.sh CreateMarsJar.bat mainclass.txt Mars.class Mars.java MARSlicense.txt MipsXRayOpcode.xml PseudoOps.txt registerDatapath.xml Settings.properties Syscall.properties
