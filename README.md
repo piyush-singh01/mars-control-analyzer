@@ -1,4 +1,11 @@
 # Control Unit Analyzer Tool for MARS
+## MARS
+> MARS is a lightweight interactive development environment (IDE) for programming in MIPS assembly language, intended for educational-level use with Patterson and Hennessy's Computer Organization and Design
+
+**Main page**: http://courses.missouristate.edu/kenvollmar/mars/
+
+## The Control Unit
+
 The control unit in the MIPS datapath is a part of CPU, which interprets the instruction and generates a set of control signals, in sync with the clock. The signals are responsible for determining which devices and operations will be involved in processing the instruction and the sequence of path to be followed. In the standard processor for the MIPS subset, the following control signals are involved. 
 
 - `Branch`: Enables the loading of the branch target address, via a conditional test into the Program Counter.
