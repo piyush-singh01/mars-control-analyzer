@@ -56,7 +56,7 @@ Shows the statistics for each of the control signals, the number of times each s
 ![Alt text](./assets/image3.png)
 
 ## License
-- The original [MARS LICENSE]()
+- The original [MARS LICENSE](https://github.com/piyush-singh01/mars-control-analyzer/blob/master/MARSlicense.txt)
 
 ## Source
 The source code was extracted using `jar xf Mars4_5.jar`.
