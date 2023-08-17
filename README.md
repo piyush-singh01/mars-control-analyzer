@@ -1,5 +1,5 @@
 # Control Unit Analyzer Tool for MARS
-The control unit in the MIPS datapath is a part of CPU and functional unit and a part of CPU. The control unit interprets the instruction and generates a set of control signals, in sync with the clock. The signals are responsible for determining which devices and operations will be involved in processing the instruction and the sequence of path to be followed. In the standard processor for the MIPS subset, the following control signals are involved. 
+The control unit in the MIPS datapath is a part of CPU, which interprets the instruction and generates a set of control signals, in sync with the clock. The signals are responsible for determining which devices and operations will be involved in processing the instruction and the sequence of path to be followed. In the standard processor for the MIPS subset, the following control signals are involved. 
 
 - `Branch`: Enables the loading of the branch target address, via a conditional test into the Program Counter.
 - `Jump`: Enables the loading of the jump target address into the Program Counter.
