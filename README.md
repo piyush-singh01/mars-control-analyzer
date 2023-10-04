@@ -70,4 +70,4 @@ The source code was extracted using `jar xf Mars4_5.jar`.
 
 
 ## Compiling and Creating the JAR File
-Still to compile and create a JAR executable, run the batch file, `CreateMarsJar.bat`. 
+To compile and create a JAR executable, run the batch file, `CreateMarsJar.bat`. 
